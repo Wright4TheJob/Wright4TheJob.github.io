@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An introduction to Reliable Prototyping training materials"
+title: "An introduction to Tiny Machine training materials"
 date: 2017-09-11
 ---
 
