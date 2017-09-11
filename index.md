@@ -1,5 +1,6 @@
 ---
 layout: home
+title: The Tiny Machine Company
 ---
 
-A Site Starter Materialize Templates for Jekyll.
+Your source for painless electronic prototyping equipment.

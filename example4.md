@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Carousel
+title: Products
 permalink: /carousel/
 ---
 
