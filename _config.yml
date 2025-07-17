@@ -1,8 +1,0 @@
-name: Reliable Prototyping Equipment
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-plugins:
-  - jekyll-sitemap
-
-sass:
-    style: compressed
