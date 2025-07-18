@@ -2,3 +2,6 @@ baseURL: "https://wright4thejob.github.io/"
 languageCode: "en-us"
 title: "David Wright"
 theme: "PaperMod"
+
+params:
+  defaultTheme: auto
