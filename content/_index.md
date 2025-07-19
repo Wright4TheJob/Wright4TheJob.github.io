@@ -2,6 +2,7 @@ Hello, and thanks for visiting!
 
 I'd love to accelerate bringing your idea into reality. I'm currently accepting new clients! I'm happy to work on proprietary or open-source projects. For enquiries, reach out to hello@sapling-tech.com and I'll be in touch!
 ## Who I am
+![David Wright Headshot](/Headshot2021Square.jpg)
 My name is David Wright, and I embody my name's meaning: a maker of all sorts of things, with a love for open source solutions. I have PhD and Masters degrees in mechanical engineering.
 
 My approach to design is a solarpunk one: abundance-oriented, freedom-first, and striving to combine the best of natural and tech solutions for human flourishing. I'm self-motivated and approach problems creatively across the whole range of scales, from parts to systems.
